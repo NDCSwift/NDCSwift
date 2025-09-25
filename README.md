@@ -35,15 +35,15 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 
 - **[WordSage](https://apps.apple.com/ca/app/wordsage/id6683296823)**  
   _Your daily vocabulary challenge with interactive games and motion-based controls._  
-  🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823) • 💻 [GitHub Repo (Coming Soon)](#)
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823) 
 
 - **[Daily Devotion](https://apps.apple.com/ca/app/daily-devotions/id6744182819)**  
   _Beautifully curated scripture and reflections to inspire each day._  
-  🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819) • 💻 [GitHub Repo (Coming Soon)](#)
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819) 
 
 - **[Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)**  
   _Face-to-face or online reflex battles with multiplayer support and custom visuals._  
-  🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055) • 💻 [GitHub Repo (Coming Soon)](#)
+  🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055) 
 
 ---
 
@@ -63,7 +63,7 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcatSenpai&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDCSwifti&show_icons=true&theme=tokyonight)
 
 ---
 
