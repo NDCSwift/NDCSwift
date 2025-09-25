@@ -71,10 +71,11 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 <!--      7. YOUTUBE LATEST        -->
 <!-- ============================= -->
 
-## 🎬 Latest YouTube Videos
+## 🎬 Latest YouTube Videos  
 
-[![Video Title 1](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)  
-[![Video Title 2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)  
-[![Video Title 3](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)  
+[![Video 1](https://img.youtube.com/vi/2Q-iM1MXIbs/0.jpg)](https://youtu.be/2Q-iM1MXIbs)  
+[![Video 2](https://img.youtube.com/vi/jANfmTbiDLc/0.jpg)](https://youtu.be/jANfmTbiDLc)  
+[![Video 3](https://img.youtube.com/vi/1UM8AyFGO_c/0.jpg)](https://youtu.be/1UM8AyFGO_c)  
+
 
 
