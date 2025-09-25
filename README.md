@@ -2,7 +2,7 @@
 <!--       1. BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner – Insert Your Own](https://via.placeholder.com/1200x300?text=Noah+Carpenter+-+iOS+Developer)
+![Banner](https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true)
 
 ---
 
