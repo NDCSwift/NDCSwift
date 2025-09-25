@@ -1,5 +1,5 @@
 <!-- ============================= -->
-<!--       1. BANNER SECTION       -->
+<!--          BANNER SECTION       -->
 <!-- ============================= -->
 
 ![Banner](https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true)
@@ -7,7 +7,7 @@
 ---
 
 <!-- ============================= -->
-<!--       2. INTRODUCTION         -->
+<!--          INTRODUCTION         -->
 <!-- ============================= -->
 
 # 👋 Hi, I'm Noah Carpenter  
@@ -16,7 +16,7 @@
 ---
 
 <!-- ============================= -->
-<!--          3. ABOUT ME          -->
+<!--             ABOUT ME          -->
 <!-- ============================= -->
 
 ## ✨ About Me  
@@ -28,8 +28,56 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 
 ---
 
+
 <!-- ============================= -->
-<!--        4. MY PROJECTS         -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## 🛠️ Tech & Tools  
+
+<p align="center">
+  <a href="https://developer.apple.com/xcode/swiftui/">
+    <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/xcode/swiftdata/">
+    <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/gamekit/">
+    <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/av-foundation/">
+    <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.apple.com/keynote/">
+    <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/machine-learning/">
+    <img src="https://img.shields.io/badge/CoreML-3DDC84?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/documentation/uikit">
+    <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
 <!-- ============================= -->
 
 ## 🚀 My Projects  
@@ -49,7 +97,7 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 ---
 
 <!-- ============================= -->
-<!--       5. CONNECT WITH ME      -->
+<!--          CONNECT WITH ME      -->
 <!-- ============================= -->
 
 ## 🤝 Connect with Me  
@@ -59,21 +107,9 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 
 ---
 
-<!-- ============================= -->
-<!--      6. TECH & TOOLS          -->
-<!-- ============================= -->
-
-## 🛠️ Tech & Tools  
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white)  
-![SwiftData](https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white)  
-![GameKit](https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white)  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)  
-
----
 
 <!-- ============================= -->
-<!--        7. GITHUB STATS        -->
+<!--           GITHUB STATS        -->
 <!-- ============================= -->
 
 ## 📊 GitHub Stats  
@@ -83,7 +119,7 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 ---
 
 <!-- ============================= -->
-<!--      8. YOUTUBE LATEST        -->
+<!--         YOUTUBE LATEST        -->
 <!-- ============================= -->
 
 ## 🎬 Latest YouTube Videos  
