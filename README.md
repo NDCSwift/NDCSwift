@@ -63,7 +63,7 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDCSwifti&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDCSwift&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -71,37 +71,10 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 <!--      7. YOUTUBE LATEST        -->
 <!-- ============================= -->
 
-## 🎬 Latest YouTube Videos  
+## 🎬 Latest YouTube Videos
 
-<!-- 
-This script fetches the latest uploads from your YouTube channel without using an API key. 
-It works by embedding your channel’s RSS feed and parsing it with JS.
-Note: Works best on GitHub Pages / personal site, GitHub README doesn’t execute JS — 
-so provide a fallback (links) for README itself. 
--->
+[![Video Title 1](https://img.youtube.com/vi/VIDEO_ID_1/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_1)  
+[![Video Title 2](https://img.youtube.com/vi/VIDEO_ID_2/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_2)  
+[![Video Title 3](https://img.youtube.com/vi/VIDEO_ID_3/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_3)  
 
-<!-- Fallback Links for README -->
-- [Visit my YouTube Channel](https://www.youtube.com/@NoahDoesCoding97) for the latest videos!  
-
-
-
-<div id="youtube-videos"></div>
-<script>
-  fetch("https://www.youtube.com/feeds/videos.xml?channel_id=UC0DtrK_aph5EzH_iC-9qYjg") 
-    .then(res => res.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(data => {
-      let container = document.getElementById("youtube-videos");
-      let items = data.querySelectorAll("entry");
-      items.forEach((el, i) => {
-        if (i < 3) {
-          let title = el.querySelector("title").textContent;
-          let link = el.querySelector("link").getAttribute("href");
-          let div = document.createElement("div");
-          div.innerHTML = `<a href="${link}" target="_blank">🎥 ${title}</a>`;
-          container.appendChild(div);
-        }
-      });
-    });
-</script>
 
