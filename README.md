@@ -154,7 +154,7 @@ _Fast-paced multiplayer reflex battles — local or online._
 _Set custom goals and track progress in a clean, focused interface._  
 
     <p align="center">
-    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/MGGif.gif?raw=true" width="400" alt="MicroGoal Demo"/>
+    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/MGGif.gif?raw=true" width="100" alt="MicroGoal Demo"/>
   </p>
 
 ✨ Features in development:  
