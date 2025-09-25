@@ -83,18 +83,55 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 ## 🚀 My Projects  
 
 - **[WordSage](https://apps.apple.com/ca/app/wordsage/id6683296823)**  
-  _Your daily vocabulary challenge with interactive games and motion-based controls._  
-  🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823) 
+  _Your daily vocabulary companion with interactive challenges and motion-based controls._  
+
+  <p align="center">
+    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="300" alt="WordSage Demo"/>
+  </p>
+
+  ✨ Features:  
+  - Daily word challenges to expand your vocabulary  
+  - Multiple game modes: matching, anagrams, flashcards  
+  - Motion-based gameplay for an immersive experience  
+  - 1000+ curated vocabulary entries  
+
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823)  
+
+---
 
 - **[Daily Devotion](https://apps.apple.com/ca/app/daily-devotions/id6744182819)**  
   _Beautifully curated scripture and reflections to inspire each day._  
-  🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819) 
 
-- **[Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)**  
-  _Face-to-face or online reflex battles with multiplayer support and custom visuals._  
-  🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055) 
+  <p align="center">
+    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="300" alt="Daily Devotion Demo"/>
+  </p>
+
+  ✨ Features:  
+  - Handpicked verses with thoughtful reflections  
+  - Choose your translation (KJV, ASV, WEB, DRB)  
+  - Daily notifications to build spiritual habits  
+  - Dark mode + home widget for quick access  
+  - Save favorites and search scripture easily  
+
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819)  
 
 ---
+
+- **[Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)**  
+  _Fast-paced multiplayer reflex battles — local or online._  
+
+  <p align="center">
+    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="300" alt="Tap Duel Demo"/>
+  </p>
+
+  ✨ Features:  
+  - Real-time **Game Center multiplayer** or local two-player  
+  - Solo reflex trainer for sharpening reaction time  
+  - Unlockable icons, skins, and premium packs (cats, memes, holidays & more)  
+  - Detailed stats: fastest taps, win streaks, performance analytics  
+  - Quickfire “first to 5” rounds for high-stakes fun  
+
+  🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055)  
 
 ---
 
