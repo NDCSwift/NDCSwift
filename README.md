@@ -1,66 +1,107 @@
-<!-- ===================================================== -->
-<!--                GITHUB PROFILE README                  -->
-<!--    Follow the comments to replace placeholder text    -->
-<!-- ===================================================== -->
+<!-- ============================= -->
+<!--       1. BANNER SECTION       -->
+<!-- ============================= -->
 
-<!-- =================== 1. BANNER ======================= -->
-<!-- Replace the line below with your banner image -->
-![Insert Banner Image Here](https://via.placeholder.com/1200x300.png?text=Your+Banner+Here)
+![Banner – Insert Your Own](https://via.placeholder.com/1200x300?text=Noah+Carpenter+-+iOS+Developer)
 
 ---
 
-<!-- ================== 2. INTRODUCTION ================== -->
-# 👋 Hi, I'm **[Your Name]**
-### 💡 *[One-line tagline: who you are, what you do, and your mission]*
+<!-- ============================= -->
+<!--       2. INTRODUCTION         -->
+<!-- ============================= -->
+
+# 👋 Hi, I'm Noah Carpenter  
+**Dream Big, Code Bigger — Building intuitive apps with Swift, SwiftUI, and Xcode.**
 
 ---
 
-<!-- ==================== 3. ABOUT ME ==================== -->
-## 🌟 About Me
-<!-- Keep this to 3-5 sentences. Make it personable and scannable. -->
-I’m a passionate **[Your Role: e.g., Software Developer, Mobile Engineer]** who loves building things that make a difference.  
-My journey started with **[brief origin story or first coding experience]**, and ever since, I’ve been hooked on solving problems with code.  
-I’m especially excited about **[areas of interest: e.g., mobile apps, open-source, AI, entrepreneurship]** and enjoy collaborating with others to bring ideas to life.  
-When I’m not coding, you can find me **[personal hobby or interest]**.  
+<!-- ============================= -->
+<!--          3. ABOUT ME          -->
+<!-- ============================= -->
+
+## ✨ About Me  
+Hello! I’m Noah Carpenter, an iOS developer and designer passionate about creating **engaging, intuitive, and polished mobile apps**.  
+I love turning ideas into real, functional experiences that uplift, educate, and entertain.  
+My work blends **clean design**, **robust engineering**, and a focus on **user delight**.  
+I believe in coding as a craft and enjoy sharing my knowledge through teaching and YouTube tutorials.  
 
 ---
 
-<!-- ================== 4. MY PROJECTS =================== -->
-## 🚀 My Projects
-<!-- List 3–4 key projects. Keep descriptions short and scannable. -->
+<!-- ============================= -->
+<!--        4. MY PROJECTS         -->
+<!-- ============================= -->
 
-### 🔹 [Project Title 1]
-*One-line description of what this project does.*  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)
+## 🚀 My Projects  
 
-### 🔹 [Project Title 2]
-*One-line description of what this project does.*  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)
+- **[WordSage](https://apps.apple.com/ca/app/wordsage/id6683296823)**  
+  _Your daily vocabulary challenge with interactive games and motion-based controls._  
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823) • 💻 [GitHub Repo (Coming Soon)](#)
 
-### 🔹 [Project Title 3]
-*One-line description of what this project does.*  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)
+- **[Daily Devotion](https://apps.apple.com/ca/app/daily-devotions/id6744182819)**  
+  _Beautifully curated scripture and reflections to inspire each day._  
+  🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819) • 💻 [GitHub Repo (Coming Soon)](#)
 
-### 🔹 [Project Title 4]
-*Optional: Add another project if you want.*  
-[🔗 Live Demo](#) | [💻 GitHub Repo](#)
+- **[Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)**  
+  _Face-to-face or online reflex battles with multiplayer support and custom visuals._  
+  🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055) • 💻 [GitHub Repo (Coming Soon)](#)
 
 ---
 
-<!-- ============== 5. CONNECT WITH ME ================== -->
-## 🤝 Connect with Me
-<!-- Replace # with your actual profile links -->
+<!-- ============================= -->
+<!--       5. CONNECT WITH ME      -->
+<!-- ============================= -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](#)  
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](#)
+## 🤝 Connect with Me  
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)  
+
+---
+
+<!-- ============================= -->
+<!--        6. GITHUB STATS        -->
+<!-- ============================= -->
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EcatSenpai&show_icons=true&theme=tokyonight)
 
 ---
 
-<!-- ================= 6. GITHUB STATS ================== -->
-## 📊 GitHub Stats
-<!-- Replace "yourusername" with your actual GitHub username -->
+<!-- ============================= -->
+<!--      7. YOUTUBE LATEST        -->
+<!-- ============================= -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 🎬 Latest YouTube Videos  
 
----
+<!-- 
+This script fetches the latest uploads from your YouTube channel without using an API key. 
+It works by embedding your channel’s RSS feed and parsing it with JS.
+Note: Works best on GitHub Pages / personal site, GitHub README doesn’t execute JS — 
+so provide a fallback (links) for README itself. 
+-->
+
+<!-- Fallback Links for README -->
+- [Visit my YouTube Channel](https://www.youtube.com/@NoahDoesCoding97) for the latest videos!  
+
+
+
+<div id="youtube-videos"></div>
+<script>
+  fetch("https://www.youtube.com/feeds/videos.xml?channel_id=UC0DtrK_aph5EzH_iC-9qYjg") 
+    .then(res => res.text())
+    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+    .then(data => {
+      let container = document.getElementById("youtube-videos");
+      let items = data.querySelectorAll("entry");
+      items.forEach((el, i) => {
+        if (i < 3) {
+          let title = el.querySelector("title").textContent;
+          let link = el.querySelector("link").getAttribute("href");
+          let div = document.createElement("div");
+          div.innerHTML = `<a href="${link}" target="_blank">🎥 ${title}</a>`;
+          container.appendChild(div);
+        }
+      });
+    });
+</script>
+
