@@ -125,7 +125,7 @@ _Fast-paced multiplayer reflex battles — local or online._
 - Solo reflex trainer for sharpening reaction time  
 - Unlockable icons, skins, and premium packs (cats, memes, holidays & more)  
 - Detailed stats: fastest taps, win streaks, performance analytics  
-- Quickfire “first to 5” rounds for high-stakes fun  
+- Online Leaderboards with Game Center
 
 🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055)  
 
