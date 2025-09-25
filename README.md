@@ -56,6 +56,9 @@ I believe in coding as a craft and enjoy sharing my knowledge through teaching a
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)  
 
 ---
+## My Langueages
+
+![Static Badge](https://img.shields.io/badge/SwiftUI-orange)
 
 <!-- ============================= -->
 <!--        6. GITHUB STATS        -->
