@@ -83,9 +83,9 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 ## 🚀 My Projects  
 
 <p align="center">
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="220" alt="WordSage Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="220" alt="Daily Devotion Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="220" alt="Tap Duel Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="150" alt="WordSage Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="150" alt="Daily Devotion Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="150" alt="Tap Duel Demo"/>
 </p>
 
 ---
