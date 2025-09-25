@@ -96,6 +96,29 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 
 ---
 
+---
+
+<!-- ============================= -->
+<!--           WIP PROJECTS        -->
+<!-- ============================= -->
+
+## 🧪 Work in Progress  
+
+- **Kitty Game** 🐱🌧️  
+  _An iOS SpriteKit game where you control a kitty dodging raindrops in a bullet-storm survival style._  
+
+  <p align="center">
+    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/KittyGameGif.gif?raw=true" width="400" alt="Kitty Game Demo"/>
+  </p>
+
+  🚧 Features in development:  
+  - Endless survival mode with increasing difficulty  
+  - Challenge levels with preset droplet patterns  
+  - Unlockable skins and backgrounds  
+  - Game Center achievements + leaderboards  
+
+---
+
 <!-- ============================= -->
 <!--          CONNECT WITH ME      -->
 <!-- ============================= -->
