@@ -1,11 +1,19 @@
-# 👋 Welcome to My GitHub Profile  
+# 🌟 My Developer Portfolio  
 
-## About Me  
-Hi! I'm just learning **Markdown** and *customizing* my GitHub profile.  
+### 👨‍💻 About Me  
+I’m an aspiring developer passionate about learning new technologies and building cool projects.  
 
-Check out [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) for more tips.  
+---
 
-<p align="center">
-  <b>This text is bold inside HTML</b><br>
-  <i>And this line is italic using HTML</i>
-</p>
+### 🚀 Projects  
+
+**Project One**  
+A simple app I built to practice SwiftUI.  
+
+**Project Two**  
+A fun side project experimenting with APIs.  
+
+---
+
+### 📫 Contact  
+You can reach me on [LinkedIn](https://linkedin.com) or check out my code on [GitHub](https://github.com).
