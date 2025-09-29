@@ -155,6 +155,7 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
     <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
   </a>
 </div>
+
 ---
 
 <!-- ============================= -->
