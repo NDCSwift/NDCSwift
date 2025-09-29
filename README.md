@@ -115,6 +115,9 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
   <a href="https://www.apple.com/keynote/">
     <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
   </a>
+    <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -130,8 +133,26 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   </a>
+    <a href="https://developer.apple.com/swift/">
+    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  </a>
   <a href="https://unity.com/">
     <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  </a>
+  <a href="https://www.json.org/">
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
   </a>
 </div>
 ---
