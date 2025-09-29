@@ -34,44 +34,92 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 <!-- ============================= -->
 
 ## 🛠️ Tech & Tools  
+<p>
+#### 📱 Frontend / UI (iOS & App Dev)
+<a href="https://developer.apple.com/xcode/swiftui/">
+  <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/documentation/uikit">
+  <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/xcode/swiftdata/">
+  <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/spritekit/">
+  <img src="https://img.shields.io/badge/SpriteKit-FF2D55?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/gamekit/">
+  <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/av-foundation/">
+  <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/healthkit/">
+  <img src="https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/documentation/storekit">
+  <img src="https://img.shields.io/badge/StoreKit-5856D6?logo=apple&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href=[https://developer.apple.com/xcode/swiftui/">
-    <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/swiftdata/">
-    <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/gamekit/">
-    <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/av-foundation/">
-    <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  </a>
-  <a href="https://www.apple.com/keynote/">
-    <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/machine-learning/">
-    <img src="https://img.shields.io/badge/CoreML-3DDC84?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/uikit">
-    <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
-  </a>
+#### 💾 Backend & Databases
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+</a>
+<a href="https://www.sqlite.org/">
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+</a>
+<a href="https://realm.io/">
+  <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/icloud/cloudkit/">
+  <img src="https://img.shields.io/badge/CloudKit-0A84FF?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/documentation/coredata">
+  <img src="https://img.shields.io/badge/CoreData-FFCC00?logo=apple&logoColor=black" />
+</a>
+
+#### ⚙️ Tools & Workflow
+<a href="https://developer.apple.com/xcode/">
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/xcode-cloud/">
+  <img src="https://img.shields.io/badge/Xcode%20Cloud-0A84FF?logo=apple&logoColor=white" />
+</a>
+<a href="https://developer.apple.com/testflight/">
+  <img src="https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</a>
+<a href="https://www.figma.com/">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+</a>
+<a href="https://www.apple.com/keynote/">
+  <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
+</a>
+
+#### 🖥️ Languages
+<a href="https://developer.apple.com/swift/">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+</a>
+<a href="https://unity.com/">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+</a>
 </p>
 
 ---
