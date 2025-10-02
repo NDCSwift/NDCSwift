@@ -24,7 +24,8 @@ Hello! I’m Noah Carpenter, an iOS developer and designer passionate about crea
 I enjoy learning, experimenting, and sharing knowledge — whether that’s through building projects, teaching, or creating YouTube tutorials.  
 My focus is on **clarity, accessibility, and helping others grow as developers**, while crafting experiences that people enjoy using every day.  
 
-🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!  
+🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!
+Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3GpVxXOXRlM?si=tqHCjHYsyFqQHEjY)
 
 ---
 
