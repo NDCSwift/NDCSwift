@@ -169,6 +169,7 @@ Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3Gp
   <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="150" alt="WordSage Demo"/>
   <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="150" alt="Daily Devotion Demo"/>
   <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="150" alt="Tap Duel Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/GBGif.gif?raw=true" width="150" alt="Gratitude Bestie Demo"/>
 </p>
 
 ---
@@ -183,6 +184,19 @@ _Your daily vocabulary companion with interactive challenges and motion-based co
 - 1000+ curated vocabulary entries  
 
 🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823)  
+
+---
+### 🙏 [Gratitude Bestie](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)  
+_A mindful journaling app to help you reflect, grow, and stay grateful._  
+
+✨ Features:  
+- Daily gratitude entries with support for photos, tags, and emoji  
+- Smart prompts powered by Core ML emotion detection  
+- CloudKit sync across iPhone & iPad  
+- Clean, accessible UI designed in SwiftUI  
+- One-time purchase to remove all ads  
+
+🔗 [Live on App Store](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)
 
 ---
 
