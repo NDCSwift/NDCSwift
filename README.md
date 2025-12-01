@@ -273,17 +273,6 @@ _Set custom goals and track progress in a clean, focused interface._
 
 ---
 
-
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDCSwift&show_icons=true&theme=tokyonight)
-
----
-
 <!-- ============================= -->
 <!--         YOUTUBE LATEST        -->
 <!-- ============================= -->
