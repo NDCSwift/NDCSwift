@@ -268,7 +268,6 @@ _Set custom goals and track progress in a clean, focused interface._
 ## 🤝 Connect with Me  
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)  
-[![Project Resources](https://img.shields.io/badge/Project%20Resources-000000?logo=About.me&logoColor=white)](https://ndcswift.github.io/Swift-Projects/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?logo=githubpages&logoColor=white)](https://ndcswift.github.io/)  
 
 ---
