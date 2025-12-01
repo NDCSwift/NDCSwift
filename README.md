@@ -290,16 +290,17 @@ _Set custom goals and track progress in a clean, focused interface._
 
 ## 🎬 Latest YouTube Videos  
 
+
 <div align="center">
 
-<a href="https://youtu.be/2Q-iM1MXIbs">
-  <img src="https://img.youtube.com/vi/2Q-iM1MXIbs/0.jpg" width="30%" alt="Video 1"/>
+<a href="https://youtu.be/15BQ3xfxqu4">
+  <img src="https://img.youtube.com/vi/15BQ3xfxqu4/0.jpg" width="30%" alt="Video 1"/>
 </a>
-<a href="https://youtu.be/jANfmTbiDLc">
-  <img src="https://img.youtube.com/vi/jANfmTbiDLc/0.jpg" width="30%" alt="Video 2"/>
+<a href="https://youtu.be/yHQbVoEwk_0">
+  <img src="https://img.youtube.com/vi/yHQbVoEwk_0/0.jpg" width="30%" alt="Video 2"/>
 </a>
-<a href="https://youtu.be/1UM8AyFGO_c">
-  <img src="https://img.youtube.com/vi/1UM8AyFGO_c/0.jpg" width="30%" alt="Video 3"/>
+<a href="https://youtu.be/YkCU3SQcN5I">
+  <img src="https://img.youtube.com/vi/YkCU3SQcN5I/0.jpg" width="30%" alt="Video 3"/>
 </a>
 
 </div>
