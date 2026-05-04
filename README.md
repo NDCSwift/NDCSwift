@@ -1,294 +1,263 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
-
+<!-- BANNER -->
 ![Banner](https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true)
 
 ---
 
-<!-- ============================= -->
-<!--          INTRODUCTION         -->
-<!-- ============================= -->
+# Hi, I'm Noah Carpenter
 
-# 👋 Hi, I'm Noah Carpenter  
-**Dream Big, Code Bigger — Building intuitive apps with Swift, SwiftUI, and Xcode.**
+iOS developer and indie app maker with 5+ years of experience shipping on the App Store. Started in web design, taught myself Swift and SwiftUI, and have since expanded into React Native for cross-platform work.
 
----
+My focus is on building apps people genuinely enjoy using — with clear design, real accessibility, and a goal of helping other developers grow along the way.
 
-<!-- ============================= -->
-<!--             ABOUT ME          -->
-<!-- ============================= -->
-
-## ✨ About Me  
-Hello! I’m Noah Carpenter, an iOS developer and designer passionate about creating apps that are **engaging, accessible, and meaningful**.  
-I enjoy learning, experimenting, and sharing knowledge — whether that’s through building projects, teaching, or creating YouTube tutorials.  
-My focus is on **clarity, accessibility, and helping others grow as developers**, while crafting experiences that people enjoy using every day.  
-
-🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!
+🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!  
 Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3GpVxXOXRlM?si=tqHCjHYsyFqQHEjY)
 
----
-
-
-<!-- ============================= -->
-<!--         TECH & TOOLS          -->
-<!-- ============================= -->
-
-## 🛠️ Tech & Tools  
-
-### 📱 Frontend / UI (iOS & App Dev)  
-<div align="center">
-  <a href="https://developer.apple.com/xcode/swiftui/">
-    <img src="https://img.shields.io/badge/SwiftUI-orange?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/uikit">
-    <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode/swiftdata/">
-    <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/spritekit/">
-    <img src="https://img.shields.io/badge/SpriteKit-FF2D55?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/gamekit/">
-    <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/av-foundation/">
-    <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/healthkit/">
-    <img src="https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/storekit">
-    <img src="https://img.shields.io/badge/StoreKit-5856D6?logo=apple&logoColor=white" />
-  </a>
-</div>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?logo=githubpages&logoColor=white)](https://ndcswift.github.io)
+[![Dev Tools](https://img.shields.io/badge/toolbit.dev-111827?logo=googlechrome&logoColor=white)](https://toolbit.dev)
 
 ---
 
-### 💾 Backend & Databases  
-<div align="center">
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-  </a>
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
-  </a>
-  <a href="https://realm.io/">
-    <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/icloud/cloudkit/">
-    <img src="https://img.shields.io/badge/CloudKit-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/documentation/coredata">
-    <img src="https://img.shields.io/badge/CoreData-FFCC00?logo=apple&logoColor=black" />
-  </a>
-</div>
+## Apps
+
+### WordSage
+
+<img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="120" alt="WordSage Demo"/>
+
+*Your daily vocabulary companion with interactive challenges and motion-based controls.*
+
+**Stack:** SwiftUI · SwiftData · CloudKit · CoreHaptics
+
+- Four game modes: matching, anagrams, flashcards, and daily challenges
+- 1000+ curated vocabulary entries with a streak and lifeline economy
+- Motion-based gameplay and SwiftData + CloudKit sync
+
+<a href="https://apps.apple.com/ca/app/wordsage/id6683296823">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
 
 ---
 
-### ⚙️ Tools & Workflow  
-<div align="center">
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/xcode-cloud/">
-    <img src="https://img.shields.io/badge/Xcode%20Cloud-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://developer.apple.com/testflight/">
-    <img src="https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  </a>
-  <a href="https://www.apple.com/keynote/">
-    <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
-  </a>
-    <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  </a>
-</div>
+### Gratitude Bestie
+
+<img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/GBGif.gif?raw=true" width="120" alt="Gratitude Bestie Demo"/>
+
+*A mindful journaling app to help you reflect, grow, and stay grateful.*
+
+**Stack:** SwiftUI · SwiftData · CloudKit · Core ML
+
+- Rich daily entries with photos, tags, and emoji
+- Smart prompts powered by Core ML emotion detection
+- CloudKit sync across iPhone and iPad — one-time purchase to remove ads
+
+<a href="https://apps.apple.com/us/app/gratitude-bestie/id6753034386">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
 
 ---
 
-### 🖥️ Languages  
-<div align="center">
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  </a>
-    <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  </a>
-  <a href="https://www.json.org/">
-    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
-  </a>
-</div>
+### Daily Devotion
+
+<img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="120" alt="Daily Devotion Demo"/>
+
+*Beautifully curated scripture and reflections to inspire each day.*
+
+**Stack:** SwiftUI · SwiftData · WidgetKit
+
+- Four Bible translations: KJV, ASV, WEB, and DRB
+- Daily notifications, dark mode, home screen widget, and search
+- Favorites, personal notes, and handpicked devotional content
+
+<a href="https://apps.apple.com/ca/app/daily-devotions/id6744182819">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
 
 ---
 
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
+### Tap Duel
 
-## 🚀 My Projects  
+<img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="120" alt="Tap Duel Demo"/>
+
+*Fast-paced reflex battles — local or online.*
+
+**Stack:** SwiftUI · GameKit · SwiftData · RevenueCat · CoreHaptics
+
+- Real-time Game Center multiplayer or local two-player
+- Solo reaction trainer with stats, streaks, and leaderboards
+- Unlockable skins and themed premium packs via RevenueCat
+
+<a href="https://apps.apple.com/us/app/tap-duel/id6746076055">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+<br clear="right"/>
+
+---
+
+### Sky Loops
+
+*Pilot a plane through the sky — build combos, chase the leaderboard.*
+
+**Stack:** SpriteKit · GameKit · StoreKit · AdMob
+
+- Four modes: 60s, 120s, 180s timed challenges, and a pressure-free Zen mode
+- Unlockable planes and contrail trails with a coin economy and daily challenges
+- Game Center achievements and leaderboards across all modes
 
 <p align="center">
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="150" alt="WordSage Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="150" alt="Daily Devotion Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="150" alt="Tap Duel Demo"/>
-  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/GBGif.gif?raw=true" width="150" alt="Gratitude Bestie Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/Skyloops.gif?raw=true" width="360" alt="Sky Loops Demo"/>
 </p>
 
----
-
-### 📘 [WordSage](https://apps.apple.com/ca/app/wordsage/id6683296823)  
-_Your daily vocabulary companion with interactive challenges and motion-based controls._  
-
-✨ Features:  
-- Daily word challenges to expand your vocabulary  
-- Multiple game modes: matching, anagrams, flashcards  
-- Motion-based gameplay for an immersive experience  
-- 1000+ curated vocabulary entries  
-
-🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823)  
-
----
-### 🙏 [Gratitude Bestie](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)  
-_A mindful journaling app to help you reflect, grow, and stay grateful._  
-
-✨ Features:  
-- Daily gratitude entries with support for photos, tags, and emoji  
-- Smart prompts powered by Core ML emotion detection  
-- CloudKit sync across iPhone & iPad  
-- Clean, accessible UI designed in SwiftUI  
-- One-time purchase to remove all ads  
-
-🔗 [Live on App Store](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)
+<a href="https://apps.apple.com/us/app/sky-loops/id6756944640">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
 
 ---
 
-### 📖 [Daily Devotion](https://apps.apple.com/ca/app/daily-devotions/id6744182819)  
-_Beautifully curated scripture and reflections to inspire each day._  
+### Focura *(coming soon — iOS first)*
 
-✨ Features:  
-- Handpicked verses with thoughtful reflections  
-- Choose your translation (KJV, ASV, WEB, DRB)  
-- Daily notifications to build spiritual habits  
-- Dark mode + home widget for quick access  
-- Save favorites and search scripture easily  
+<img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/FocuraGif.gif?raw=true" width="120" alt="Focura Demo"/>
 
-🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819)  
+*An ADHD-focused time-blocking and focus timer. Your external executive function.*
 
----
+**Stack:** React Native · Expo · SQLite · Zustand · RevenueCat
 
-### 🎮 [Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)  
-_Fast-paced multiplayer reflex battles — local or online._  
+- Visual time blocks, timed sessions, and a Flow State that rewards hyperfocus
+- Calendar and Reminders sync for zero-input scheduling
+- Live Activities, lock screen widgets, body doubling mode, and brown noise soundscapes
+- Local-first — no network required for core functionality. Freemium via RevenueCat.
 
-✨ Features:  
-- Real-time **Game Center multiplayer** or local two-player  
-- Solo reflex trainer for sharpening reaction time  
-- Unlockable icons, skins, and premium packs (cats, memes, holidays & more)  
-- Detailed stats: fastest taps, win streaks, performance analytics  
-- Online Leaderboards with Game Center
+*App Store link coming soon — launching shortly.*
 
-🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055)  
+<br clear="right"/>
 
 ---
 
-<!-- ============================= -->
-<!--           WIP PROJECTS        -->
-<!-- ============================= -->
+## In Progress
 
-## 🧪 Work in Progress  
+**Kitty Game** — A SpriteKit survival game. Guide your cat through falling raindrop bullet patterns, unlock skins, and climb the Game Center leaderboard.
 
-- **Kitty Game** 🐱🌧️  
-  _An iOS SpriteKit game where you control a kitty dodging raindrops in a bullet-storm survival style._  
+<p align="center">
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/KittyGameGif.gif?raw=true" width="360" alt="Kitty Game Demo"/>
+</p>
 
-  <p align="center">
-    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/KittyGameGif.gif?raw=true" width="400" alt="Kitty Game Demo"/>
-  </p>
-
-  🚧 Features in development:  
-  - Endless survival mode with increasing difficulty  
-  - Challenge levels with preset droplet patterns  
-  - Unlockable skins and backgrounds  
-  - Game Center achievements + leaderboards
- 
- - **🎯 MicroGoal** 
-_Set custom goals and track progress in a clean, focused interface._  
-
-    <p align="left">
-    <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/MGGif.gif?raw=true" width="100" alt="MicroGoal Demo"/>
-  </p>
-
-✨ Features in development:  
-- Create and customize personal goals  
-- Track daily/weekly progress visually  
-- Simple, distraction-free interface  
-- Future plans: streaks, reminders, and motivational widgets  
 
 ---
 
-<!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
-## 🤝 Connect with Me  
+## Web Projects
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?logo=githubpages&logoColor=white)](https://ndcswift.github.io/)  
+### [toolbit.dev](https://toolbit.dev)
+*A free collection of browser-based developer utilities.*
+
+JSON formatter · Regex tester · Base64 encoder · Text diff · Hash generator · Color picker · Timestamp converter · URL encoder · Lorem ipsum · AI prompt builder
+
+No frameworks, no installs. Built with vanilla HTML, CSS, and JavaScript.
 
 ---
 
-<!-- ============================= -->
-<!--         YOUTUBE LATEST        -->
-<!-- ============================= -->
+## Tech & Tools
 
-## 🎬 Latest YouTube Videos  
+### Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+</div>
 
+### iOS / Apple Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIKit-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftData-0A84FF?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpriteKit-FF2D55?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameKit-9B59B6?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/StoreKit-5856D6?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudKit-0A84FF?logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20ML-555555?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreHaptics-1C1C1E?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/WidgetKit-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/ActivityKit-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/RealityKit-000000?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/visionOS-1C1C1E?logo=apple&logoColor=white" />
+</div>
+
+### Cross-Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+</div>
+
+### Data & Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-1C1C1E?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=black" />
+</div>
+
+### Tools & Workflow
+<div align="center">
+  <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode%20Cloud-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/EAS%20Build-000020?logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/RevenueCat-F50057?logo=revenuecat&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdMob-EA4335?logo=googleadmob&logoColor=white" />
+</div>
+
+---
+
+## [YouTube](https://www.youtube.com/@NoahDoesCoding97)
+
+Tutorials, walkthroughs, and coding experiments — every public repo here is a companion to a video or a standalone learning example.
+
+Topics covered across 100+ repos:
+
+- SwiftUI components, navigation, animations, and gestures
+- CloudKit, Firebase, and Supabase Auth integration
+- HealthKit, SpriteKit, RealityKit, and visionOS
+- Camera, audio, and device sensors
+- FoundationModels (on-device AI), Core ML, and Gemini API
+- StoreKit, Keychain, and push notifications
+- UIKit patterns and Swift interview prep
 
 <div align="center">
 
-<a href="https://youtu.be/15BQ3xfxqu4">
-  <img src="https://img.youtube.com/vi/15BQ3xfxqu4/0.jpg" width="30%" alt="Video 1"/>
+<a href="https://youtu.be/0ZSmhUOXT7s">
+  <img src="https://img.youtube.com/vi/0ZSmhUOXT7s/0.jpg" width="30%" alt="Video 1"/>
 </a>
-<a href="https://youtu.be/yHQbVoEwk_0">
-  <img src="https://img.youtube.com/vi/yHQbVoEwk_0/0.jpg" width="30%" alt="Video 2"/>
+<a href="https://youtu.be/7HaylMlkVFM">
+  <img src="https://img.youtube.com/vi/7HaylMlkVFM/0.jpg" width="30%" alt="Video 2"/>
 </a>
-<a href="https://youtu.be/YkCU3SQcN5I">
-  <img src="https://img.youtube.com/vi/YkCU3SQcN5I/0.jpg" width="30%" alt="Video 3"/>
+<a href="https://youtu.be/q6AyeXtG134">
+  <img src="https://img.youtube.com/vi/q6AyeXtG134/0.jpg" width="30%" alt="Video 3"/>
 </a>
 
 </div>
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?logo=githubpages&logoColor=white)](https://ndcswift.github.io)
+[![Dev Tools](https://img.shields.io/badge/toolbit.dev-111827?logo=googlechrome&logoColor=white)](https://toolbit.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:noahdoescoding@gmail.com)
