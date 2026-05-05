@@ -130,7 +130,6 @@ Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3Gp
 
 - Visual time blocks, timed sessions, and a Flow State that rewards hyperfocus
 - Calendar and Reminders sync for zero-input scheduling
-- Live Activities, lock screen widgets, body doubling mode, and brown noise soundscapes
 - Local-first — no network required for core functionality. Freemium via RevenueCat.
 
 *App Store link coming soon — launching shortly.*
