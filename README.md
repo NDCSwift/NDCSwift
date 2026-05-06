@@ -120,21 +120,25 @@ Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3Gp
 
 ---
 
-### Focura *(coming soon — iOS first)*
+### Focura
 
 <img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/FocuraGif.gif?raw=true" width="120" alt="Focura Demo"/>
 
 *An ADHD-focused time-blocking and focus timer. Your external executive function.*
 
-**Stack:** React Native · Expo · SQLite · Zustand · RevenueCat
+**Stack:** React Native · Expo · SQLite + Drizzle ORM · Zustand · RevenueCat · RN Skia
 
-- Visual time blocks, timed sessions, and a Flow State that rewards hyperfocus
+- Visual time blocks with a Flow State that rewards hyperfocus — green overtime, not red warnings
 - Calendar and Reminders sync for zero-input scheduling
+- Home Screen + Lock Screen widgets, Smart Shift rescheduling, and flexible streak tracking
 - Local-first — no network required for core functionality. Freemium via RevenueCat.
 
-*App Store link coming soon — launching shortly.*
+<a href="https://apps.apple.com/us/app/focura/id6757893283">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
 
 <br clear="right"/>
+
 
 ---
 
