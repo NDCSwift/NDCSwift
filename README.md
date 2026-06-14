@@ -9,10 +9,10 @@ iOS developer and indie app maker with 5+ years of experience shipping on the Ap
 
 My focus is on building apps people genuinely enjoy using — with clear design, real accessibility, and a goal of helping other developers grow along the way.
 
-🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding97) for tutorials and coding content!  
+🎥 Check out my [YouTube channel](https://www.youtube.com/@NoahDoesCoding) for tutorials and coding content!  
 Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3GpVxXOXRlM?si=tqHCjHYsyFqQHEjY)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding97)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@NoahDoesCoding)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A84FF?logo=githubpages&logoColor=white)](https://ndcswift.github.io)
 [![Dev Tools](https://img.shields.io/badge/toolbit.dev-111827?logo=googlechrome&logoColor=white)](https://toolbit.dev)
 
@@ -229,7 +229,7 @@ No frameworks, no installs. Built with vanilla HTML, CSS, and JavaScript.
 
 ---
 
-## [YouTube](https://www.youtube.com/@NoahDoesCoding97)
+## [YouTube](https://www.youtube.com/@NoahDoesCoding)
 
 Tutorials, walkthroughs, and coding experiments — every public repo here is a companion to a video or a standalone learning example.
 
