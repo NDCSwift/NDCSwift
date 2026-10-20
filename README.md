@@ -20,6 +20,31 @@ Curious how this profile was built? [Watch the walkthrough](https://youtu.be/3Gp
 
 ## Apps
 
+### RealRate
+
+*A side hustle tracker built around one question: which hustle actually pays?*
+
+**Stack:** SwiftUI · SwiftData · CloudKit · Swift Charts · WidgetKit · ActivityKit · RevenueCat
+
+- True hourly rate per hustle after gas, supplies and fees, ranked side by side
+- Live shift timer with a Lock Screen and Dynamic Island Live Activity, plus home screen widgets
+- Per-client rates, iCloud sync via CloudKit, and a yearly Hustle Health Report PDF
+- Native SwiftUI, written in Swift 6 language mode throughout
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NDCSwift/NDCSwift.github.io/main/screens/RealRate1.png" width="18%" alt="RealRate dashboard ranking four side hustles by true hourly rate"/>
+  <img src="https://raw.githubusercontent.com/NDCSwift/NDCSwift.github.io/main/screens/RealRate2.png" width="18%" alt="A food delivery hustle's detail screen showing $10.14 an hour after expenses"/>
+  <img src="https://raw.githubusercontent.com/NDCSwift/NDCSwift.github.io/main/screens/RealRate3.png" width="18%" alt="Per-client hourly rates for a logo design hustle"/>
+  <img src="https://raw.githubusercontent.com/NDCSwift/NDCSwift.github.io/main/screens/RealRate4.png" width="18%" alt="A running shift timer with the estimated earnings at the current rate"/>
+  <img src="https://raw.githubusercontent.com/NDCSwift/NDCSwift.github.io/main/screens/RealRate5.png" width="18%" alt="The annual Hustle Health Report"/>
+</p>
+
+<a href="https://apps.apple.com/us/app/realrate-side-hustle-tracker/id6771057419">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us" height="40" alt="Download on the App Store"/>
+</a>
+
+---
+
 ### WordSage
 
 <img align="right" src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="120" alt="WordSage Demo"/>
